@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "425011161883",
+    "project_id": "parking-app-android-mast-50b50",
+    "storage_bucket": "parking-app-android-mast-50b50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425011161883:android:24420b62f95af780b901be",
+        "android_client_info": {
+          "package_name": "com.mad.android.parkingtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425011161883-ae143hviij73abntjtsn2mdbm5gs9q14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-PkXWrZWoRLi0xnODILXvHO8Qonqomzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425011161883-ae143hviij73abntjtsn2mdbm5gs9q14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
