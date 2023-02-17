@@ -1,42 +1,42 @@
 {
   "project_info": {
-    "project_number": "350081075163",
-    "firebase_url": "https://parking-tracker-98ed1-default-rtdb.firebaseio.com",
-    "project_id": "parking-tracker-98ed1",
-    "storage_bucket": "parking-tracker-98ed1.appspot.com"
+    "project_number": "35163",
+    "firebase_url": "firebase urlm",
+    "project_id": "parking-tracker",
+    "storage_bucket": "parking-trackerom"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:350081075163:android:dd809a5729053b3a95c9fe",
+        "mobilesdk_app_id": "1e",
         "android_client_info": {
           "package_name": "com.mad.android.parkingtracker"
         }
       },
       "oauth_client": [
         {
-          "client_id": "350081075163-20ga72j6ml4vinb68a8qb1s2899nve5r.apps.googleusercontent.com",
+          "client_id": "3------m",
           "client_type": 1,
           "android_info": {
             "package_name": "com.mad.android.parkingtracker",
-            "certificate_hash": "7f78bdf9de9fd9fe84afea3ce7584ea6c1b140da"
+            "certificate_hash": " "
           }
         },
         {
-          "client_id": "350081075163-7mkfboh3kk2kiqkfd44f6om5na6sa24h.apps.googleusercontent.com",
+          "client_id": "om",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAau2wXFc5CJt7BXccVBEJHItmmilzFTEA"
+          "current_key": "A"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "350081075163-7mkfboh3kk2kiqkfd44f6om5na6sa24h.apps.googleusercontent.com",
+              "client_id": "3m",
               "client_type": 3
             }
           ]
